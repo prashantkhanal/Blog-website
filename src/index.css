@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(255 166 0 / 33%);
+}
+
+ul {
+  list-style: none;
+}
+
+li:hover {
+  background-color: rgb(206, 206, 206);
+}
